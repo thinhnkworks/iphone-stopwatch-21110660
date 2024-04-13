@@ -2,6 +2,7 @@
 
 ## Install Expo packages
 ```
+npx expo install
 npx expo install react-dom react-native-web @expo/metro-runtime
 ```
 ## Start the app
