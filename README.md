@@ -8,3 +8,8 @@ npx expo install react-dom react-native-web @expo/metro-runtime
 ```
 npx expo start
 ```
+## To view result on the web
+Press 'w' while running expo
+
+## To view result on the phone
+Scan the QR Code
